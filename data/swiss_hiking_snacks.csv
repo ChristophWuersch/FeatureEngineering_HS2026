@@ -1,0 +1,25 @@
+trip_id,canton,transport,snack,trail_difficulty,hunger,satisfaction
+CH001,Valais,Train,Raclette,Moderate,Very hungry,Delighted
+CH002,Bern,PostBus,Chocolate,Easy,Peckish,Happy
+CH003,Graubuenden,Cable car,Nusstorte,Challenging,Hungry,Neutral
+CH004,Appenzell Innerrhoden,Car,Appenzeller cheese,Easy,Not hungry,Happy
+CH005,Ticino,Train,Polenta,Moderate,Hungry,Delighted
+CH006,Vaud,PostBus,Raclette,Challenging,Very hungry,Unhappy
+CH007,Bern,Cable car,Nusstorte,Easy,Peckish,Delighted
+CH008,Valais,Car,Chocolate,Challenging,Hungry,Happy
+CH009,Ticino,PostBus,Appenzeller cheese,Moderate,Not hungry,Neutral
+CH010,Graubuenden,Train,Polenta,Easy,Very hungry,Happy
+CH011,Vaud,Cable car,Chocolate,Moderate,Peckish,Unhappy
+CH012,Appenzell Innerrhoden,PostBus,Raclette,Challenging,Hungry,Delighted
+CH013,Valais,Cable car,Polenta,Easy,Not hungry,Neutral
+CH014,Bern,Car,Appenzeller cheese,Moderate,Very hungry,Happy
+CH015,Graubuenden,PostBus,Chocolate,Challenging,Peckish,Delighted
+CH016,Ticino,Car,Nusstorte,Easy,Hungry,Unhappy
+CH017,Vaud,Train,Appenzeller cheese,Moderate,Very hungry,Delighted
+CH018,Appenzell Innerrhoden,Cable car,Polenta,Challenging,Not hungry,Happy
+CH019,Bern,Train,Raclette,Easy,Hungry,Neutral
+CH020,Valais,PostBus,Nusstorte,Moderate,Peckish,Happy
+CH021,Graubuenden,Car,Raclette,Challenging,Very hungry,Delighted
+CH022,Ticino,Cable car,Chocolate,Easy,Not hungry,Happy
+CH023,Vaud,Car,Polenta,Moderate,Hungry,Neutral
+CH024,Appenzell Innerrhoden,Train,Nusstorte,Challenging,Peckish,Unhappy
